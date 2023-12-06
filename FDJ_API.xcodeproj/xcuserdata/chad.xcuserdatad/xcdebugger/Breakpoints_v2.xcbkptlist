@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "833AC720-F333-4F04-9E95-B01FCDA32778"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDD499E2-8A44-4C33-8D35-A78FD0154731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/LeagueService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getLeagues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EAC7B2D-9A8B-49A7-8D9C-E4857470B8E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/AsyncImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2377AFB9-93E4-43F3-A776-48CEFA886F8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/TeamsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2377AFB9-93E4-43F3-A776-48CEFA886F8F - 6bb28502e50f40b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FDJ_API.TeamsView.body.getter : some"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/TeamsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "222">
+               </Location>
+               <Location
+                  uuid = "2377AFB9-93E4-43F3-A776-48CEFA886F8F - 240a6db197e2ae2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in FDJ_API.TeamsView.body.getter : some"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/TeamsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFB2CB29-1B09-454D-86E8-88815759BB2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Model/TeamsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Team"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "259D9C4E-3F3E-4518-9C8C-5154A0E1D72C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Screens/TeamDetails/TeamsListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77DCC309-01E8-410F-B4B3-742344F2C6ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Service/TeamService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getTeams(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77DCC309-01E8-410F-B4B3-742344F2C6ED - 384d6a64e15131a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "77DCC309-01E8-410F-B4B3-742344F2C6ED - 384d6a64e15131a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "265">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Service/TeamService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getTeams(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E - fdca1eebc562177b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E - 1e49cea58869707a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E - b019b6076749537d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E - ed307d88a85c317c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "710EFC81-BFE7-4643-AC35-2C1FC03C954E - f641c96afc446559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "182">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3592F08F-579F-4817-9327-338292C85BA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Service/TeamService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getTeams(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3592F08F-579F-4817-9327-338292C85BA0 - f641c96afc446559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "3592F08F-579F-4817-9327-338292C85BA0 - 384d6a64e15131a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "035B23E2-DB2F-4313-B004-A5CFB7CAFFCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Service/TeamService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getTeams(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "035B23E2-DB2F-4313-B004-A5CFB7CAFFCC - 3d1ffd5b9e537c07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async throws -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "503">
+               </Location>
+               <Location
+                  uuid = "035B23E2-DB2F-4313-B004-A5CFB7CAFFCC - 3d1ffd5b9e537c07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Array&lt;FDJ_API.Team&gt;, Swift.Error&gt;) -&gt; () in FDJ_API.TeamService.getTeams(for: Swift.String) async throws -&gt; Swift.Array&lt;FDJ_API.Team&gt;"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Service/TeamService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "715">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EE9841C-6807-4606-BDB9-BFA6BC11D03D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Service/TeamService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getTeams(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15248241-0B22-49E2-9DC3-DEC90C06CE4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_API/Screens/TeamsList/TeamsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchTeams()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15248241-0B22-49E2-9DC3-DEC90C06CE4F - 34ae554f014e0889"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FDJ_API.TeamsListViewModel.fetchTeams() -&gt; ()"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Screens/TeamsList/TeamsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "15248241-0B22-49E2-9DC3-DEC90C06CE4F - 2df9326154feb753"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in FDJ_API.TeamsListViewModel.fetchTeams() -&gt; ()"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Screens/TeamsList/TeamsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "15248241-0B22-49E2-9DC3-DEC90C06CE4F - d6babd52fb67ccf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FDJ_API.TeamsListViewModel.fetchTeams() -&gt; ()"
+                  moduleName = "FDJ_API"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chad/Desktop/FDJ_API/FDJ_API/Screens/TeamsList/TeamsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D43A9C5-C985-4C76-8C04-1A95A5F49D89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FDJ_APITests/Screens/LeaguesList/LeaguesListViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "LeaguesListViewModelTest"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
